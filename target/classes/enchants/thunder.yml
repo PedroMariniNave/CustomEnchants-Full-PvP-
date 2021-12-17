@@ -1,0 +1,23 @@
+Settings:
+  command: thunder
+  aliases: []
+  permission: 'thunder.admin'
+  permission-message: '&6&lVoltz&f&lMC &8&l➜ &cVocê não possui permissão para executar esse comando!'
+  compatible-items:
+    - 'DIAMOND_AXE'
+    - 'IRON_AXE'
+    - 'GOLDEN_AXE'
+    - 'WOODEN_AXE'
+  chance-per-hit: 0.5 # em porcentagem
+  thunder-damage: 1.5 # x vezes o dano causado pelo hit
+  exp-cost: 30
+  enchant-display: '&7Thunder ∞'
+
+Enchant-Item:
+  type: ENCHANTED_BOOK
+  glow: true
+  lore:
+    - '&7Thunder ∞'
+
+Messages:
+  command-usage: '&6&lVoltz&f&lMC &8&l➜ &cUso correto: /{cmd} <jogador> <quantia>.'

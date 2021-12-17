@@ -1,0 +1,16 @@
+Messages:
+  max-level: '&6&lVoltz&f&lMC &8&l➜ &cNão é possível evoluir mais esse encantamento!'
+  incompatible-item: '&6&lVoltz&f&lMC &8&l➜ &cEsse item não é compatível com esse encantamento!'
+  insufficient-exp: '&6&lVoltz&f&lMC &8&l➜ &cVocê não possui EXP suficiente! ({has}/{need})'
+  offline-player: '&6&lVoltz&f&lMC &8&l➜ &cEsse jogador está offline!'
+  invalid-amount: '&6&lVoltz&f&lMC &8&l➜ &cA quantia informada é inválida!'
+
+Enchantments:
+  PROTECTION_ENVIRONMENTAL:
+    max-level: 10
+    exp-per-level: 5 # exp * level
+    display: '&7Proteção: &f{level}'
+  DURABILITY:
+    max-level: 10
+    exp-per-level: 5
+    display: '&7Inquebrável: &f{level}'
